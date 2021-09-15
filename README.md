@@ -9,7 +9,7 @@ alt="accessibility text">
 
 ## HearClient
 
-<p>
+<p><b>
  $ cd HearClient/src/ <br>
  $ javac *.java  <br>
  $ jar cfe HearClient.jar HearClient *.class res/ <br>
@@ -17,7 +17,7 @@ alt="accessibility text">
 
 ## HearServer
 
-<p>
+<p><b>
  $ cd HearServer/src/ <br>
  $ javac *.java   <br>
  $ jar cfe HearServer.jar HearServer HearServer.class <br>
